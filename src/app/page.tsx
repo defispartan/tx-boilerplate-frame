@@ -30,7 +30,6 @@ export const metadata: Metadata = {
   },
   other: {
     ...frameMetadata,
-    "of:input:text": "Enter @username",
     "of:accepts:anonymous": "true",
     "of:button:1": "Toggle Network",
     "of:button:1:action": "post",
